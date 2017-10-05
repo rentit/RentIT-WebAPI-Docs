@@ -1,2 +1,2 @@
 # RentIT-WebAPI-Docs
-Documentation and help pages for Rent.it Web API
+<a href="https://github.com/rentit/RentIT-WebAPI-Docs/wiki">Documentation and help pages for Rent.it Web API</a>
